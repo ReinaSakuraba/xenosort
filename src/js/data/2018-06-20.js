@@ -483,7 +483,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Floren",
-    img: "XC2-Godfrey.png",
+    img: "XC2-Floren.png",
     opts: {
       role: ["playable"],
       series: ["XC2"]

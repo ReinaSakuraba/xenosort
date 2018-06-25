@@ -328,7 +328,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Myhtra",
+    name: "Mythra",
     img: "XC2-Mythra.png",
     opts: {
       role: ["playable"],

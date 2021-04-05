@@ -1002,7 +1002,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Klaus",
-    img: "XC-Klaus.png",
+    img: "XC-Klaus.PNG",
     opts: {
       role: ["nonplayable", "antagonist"],
       series: ["XC"]

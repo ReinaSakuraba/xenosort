@@ -738,7 +738,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Jin",
+    name: "Jin (XC2)",
     img: "XC2-Jin.png",
     opts: {
       role: ["nonplayable", "antagonist"],
@@ -1245,7 +1245,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Jin",
+    name: "Jin (XS)",
     img: "XS-Jin.png",
     opts: {
       role: ["playable"],

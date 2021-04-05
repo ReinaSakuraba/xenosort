@@ -384,8 +384,7 @@ dataSet[dataSetVersion].characterData = [
     img: "XC2-Poppi.png",
     opts: {
       role: ["playable"],
-      series: ["XC2"],
-      duplicate: true
+      series: ["XC2"]
     }
   },
   {
@@ -402,7 +401,8 @@ dataSet[dataSetVersion].characterData = [
     img: "XC2-Poppi QTpi.png",
     opts: {
       role: ["playable"],
-      series: ["XC2"]
+      series: ["XC2"],
+      duplicate: true
     }
   },
   {

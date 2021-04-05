@@ -30,6 +30,11 @@ dataSet[dataSetVersion].options = [
     name: "Filter Spoilers",
     key: "spoiler",
     tooltip: "Check this to restrict spoilers."
+  },
+  {
+    name: "Filter Duplicates",
+    key: "duplicate",
+    tooltip: "Check this to restrict duplicates."
   }
 ];
 
@@ -537,7 +542,8 @@ dataSet[dataSetVersion].characterData = [
     img: "XC2-KOS-MOS.png",
     opts: {
       role: ["playable"],
-      series: ["XC2"]
+      series: ["XC2"],
+      duplicate: true
     }
   },
   {
@@ -649,7 +655,8 @@ dataSet[dataSetVersion].characterData = [
     img: "XC2-T-elos.png",
     opts: {
       role: ["playable"],
-      series: ["XC2"]
+      series: ["XC2"],
+      duplicate: true
     }
   },
   {
@@ -657,7 +664,8 @@ dataSet[dataSetVersion].characterData = [
     img: "XC2-Shulk.png",
     opts: {
       role: ["playable"],
-      series: ["XC2"]
+      series: ["XC2"],
+      duplicate: true
     }
   },
   {
@@ -665,7 +673,8 @@ dataSet[dataSetVersion].characterData = [
     img: "XC2-Fiora.png",
     opts: {
       role: ["playable"],
-      series: ["XC2"]
+      series: ["XC2"],
+      duplicate: true
     }
   },
   {
